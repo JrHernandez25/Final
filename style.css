@@ -1,0 +1,165 @@
+
+html,body{
+    background-color: #89a084;
+    border: solid white 4px;
+    height: 870px;
+}
+header{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    margin-top: 3%;
+    font-family: Cinzel;
+}
+#p1{
+    font-family: Caveat;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuxJv4NZ1iBHZREd8FWW5vsYCmEtz5Ei8ESt_iEYYj-dV7VLUtLw1O9QVaSdrP0xoUET8:https://publicdomainvectors.org/photos/1284769373.png&usqp=CAU);
+    margin: 0%;
+    position: absolute;
+    top: 30%;
+    width: 700px;
+    color: black;
+    border: white solid 3px;
+    padding: 2%;
+    margin-left: 26%;
+    font-size: x-large;
+    height: 150px;
+}
+#Button6{
+    margin: 0%;
+    position: absolute;
+    top: 70%;
+    background-color: #89a084;
+    border: none;
+    color: white;
+    font-size: large;
+    margin-left: 48%;
+    font-family: Cinzel;
+}
+#b2{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1j-0EROqEHP2PiOUpEw4L3zCZ24sEQnudGJzXJjFIkCsPUmLjwqnnZ4v9DFnUbmChIw:https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/upwk61822538-wikimedia-image.jpg%3Fw%3D800%26dpr%3D1%26fit%3Ddefault%26crop%3Ddefault%26q%3D65%26vib%3D3%26con%3D3%26usm%3D15%26bg%3DF4F4F3%26ixlib%3Djs-2.2.1%26s%3D7d4b17e89575217723b84f585a04661f&usqp=CAU);
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+div{
+    position: absolute;
+    top: 50%;
+    display: flex;
+    flex-direction: row;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    margin-left: 30%;
+}
+#b5{
+    background-color: white;
+    width: 150px;
+    height: 90px;
+    font-family: Cinzel;
+    font-size: medium;
+}
+#Button2{
+    background-color: white;
+    width: 150px;
+    margin-left: 10px;
+    height: 90px;
+    font-family: Cinzel;
+    font-size: medium;
+}
+#Button3{
+    background-color: white;
+    width: 150px;
+    margin-left: 10px;
+    height: 90px;
+    font-family: Cinzel;
+    font-size: medium;
+}
+#Button4{
+    background-color: white;
+    width: 150px;
+    margin-left: 10px;
+    height: 90px;
+    font-family: Cinzel;
+    font-size: medium;
+}
+
+h3{
+    color: white;
+    width: 750px;
+    border: solid white 3px;
+    background-color: black;
+    padding: 1%;
+    margin: 0%;
+    position: absolute;
+    top: 70%;
+    margin-left: 25%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 1%;
+    font-family: Cinzel;
+}
+#Img1{
+    display: flex;
+    justify-content: start;
+    height: 800px;
+    margin-left: 300px;
+}
+#Body3{
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/28/18/37/the-1865639_1280.jpg);
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#b9{
+    background-color: white;
+    width: 150px;
+    height: 90px;
+    font-family: Cinzel;
+    font-size: medium;
+    margin-left: 100px;
+}
+#Button8{
+    background-color: white;
+    width: 150px;
+    margin-left: 10px;
+    height: 90px;
+    font-family: Cinzel;
+    font-size: medium;
+}
+#Button7{
+    background-color: white;
+    width: 150px;
+    margin-left: 140px;
+    height: 90px;
+    font-family: Cinzel;
+    font-size: medium;
+}
+#Body6{
+    background-image: url(https://gdu.one/forums/gallery/image/5109-game-over/?do=download);
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#Header3{
+    color: white;
+    width: 750px;
+    border: solid white 3px;
+    background-color: black;
+    padding: 1%;
+    margin: 0%;
+    position: absolute;
+    top: 30%;
+    margin-left: 25%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 1%;
+    font-family: Cinzel;
+}
+audio{
+    position: absolute;
+    top: 67%;
+    margin-left: 25%;
+}
